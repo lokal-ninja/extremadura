@@ -1,0 +1,1 @@
+Extremadura es una comunidad autónoma española situada en el centro-oeste de la península ibérica. Está compuesta por las dos provincias más extensas del país: Cáceres y Badajoz, cuyas capitales son sus dos ciudades más pobladas. La región, cuya población asciende a 1 059 501 habitantes (INE 2021), tiene su capital en Mérida. (Wikipedia)
