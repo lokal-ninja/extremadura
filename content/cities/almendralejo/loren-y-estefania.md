@@ -1,5 +1,5 @@
 ---
 title: "Loren & Estefania"
-url: /almendralejo/loren-und-estefania/
+url: /almendralejo/loren-y-estefania/
 shop: peluquería
 ---

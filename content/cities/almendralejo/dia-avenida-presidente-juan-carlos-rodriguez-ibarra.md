@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /almendralejo/dia/
+url: /almendralejo/dia-avenida-presidente-juan-carlos-rodriguez-ibarra/
 shop: supermercado
 ---

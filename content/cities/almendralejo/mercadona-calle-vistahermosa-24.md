@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /almendralejo/mercadona/
+url: /almendralejo/mercadona-calle-vistahermosa-24/
 shop: supermercado
 ---

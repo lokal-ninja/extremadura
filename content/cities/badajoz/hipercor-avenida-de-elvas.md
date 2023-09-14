@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
-url: /badajoz/hipercor/
+url: /badajoz/hipercor-avenida-de-elvas/
 shop: supermercado
 ---

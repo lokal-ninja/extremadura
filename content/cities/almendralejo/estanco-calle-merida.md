@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
-url: /almendralejo/estanco/
+url: /almendralejo/estanco-calle-merida/
 shop: tabaco
 ---

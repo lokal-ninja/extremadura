@@ -1,5 +1,5 @@
 ---
 title: "Tambo"
-url: /caceres/tambo/
+url: /caceres/tambo-calle-evora/
 shop: supermercado
 ---

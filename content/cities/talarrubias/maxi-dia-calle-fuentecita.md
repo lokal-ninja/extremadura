@@ -1,5 +1,5 @@
 ---
 title: "Maxi Dia"
-url: /talarrubias/maxi-dia/
+url: /talarrubias/maxi-dia-calle-fuentecita/
 shop: supermercado
 ---
