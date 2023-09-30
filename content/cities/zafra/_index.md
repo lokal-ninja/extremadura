@@ -1,6 +1,6 @@
 ---
 title: Zafra
 url: /zafra/
-latitude: 38.43
-longitude: -6.42
+latitude: 38.416
+longitude: -6.41
 ---
