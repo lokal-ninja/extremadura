@@ -1,5 +1,5 @@
 ---
-title: "DosPies"
+title: "Dospies"
 url: /almendralejo/dospies/
 shop: zapatos
 ---
