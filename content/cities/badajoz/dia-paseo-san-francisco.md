@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /badajoz/dia-3/
+url: /badajoz/dia-paseo-san-francisco/
 shop: supermercado
 ---
