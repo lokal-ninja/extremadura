@@ -1,6 +1,6 @@
 ---
 title: Plasencia
 url: /plasencia/
-latitude: 40.024
-longitude: -6.096
+latitude: 40.01
+longitude: -6.109
 ---
