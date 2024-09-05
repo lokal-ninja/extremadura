@@ -1,5 +1,5 @@
 ---
 title: "Perfumerias If"
 url: /almendralejo/perfumerias-if/
-shop: cosméticos
+shop: Kosmetik
 ---

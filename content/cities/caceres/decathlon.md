@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /caceres/decathlon/
-shop: deportes
+shop: Sport
 ---

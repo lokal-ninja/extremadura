@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /talayula/dia/
-shop: supermercado
+shop: Supermarkt
 ---

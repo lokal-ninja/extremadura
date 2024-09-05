@@ -1,5 +1,5 @@
 ---
 title: "AIRAM"
 url: /badajoz/airam/
-shop: peluquería
+shop: Friseur
 ---

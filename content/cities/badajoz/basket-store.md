@@ -1,5 +1,5 @@
 ---
 title: "Basket Store"
 url: /badajoz/basket-store/
-shop: deportes
+shop: Sport
 ---

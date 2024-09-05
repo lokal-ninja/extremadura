@@ -1,5 +1,5 @@
 ---
 title: "PRIWORK"
 url: /almendralejo/priwork/
-shop: ropa
+shop: Kleidung
 ---

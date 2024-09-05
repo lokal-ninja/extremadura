@@ -1,5 +1,5 @@
 ---
 title: "Sprinter"
 url: /caceres/sprinter/
-shop: deportes
+shop: Sport
 ---

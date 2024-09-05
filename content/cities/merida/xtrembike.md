@@ -1,5 +1,5 @@
 ---
 title: "xtrembike"
 url: /merida/xtrembike/
-shop: bicicleta
+shop: Fahrrad
 ---

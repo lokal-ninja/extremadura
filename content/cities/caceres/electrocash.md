@@ -1,5 +1,5 @@
 ---
 title: "Electrocash"
 url: /caceres/electrocash/
-shop: aparato
+shop: Haushaltsgeräte
 ---

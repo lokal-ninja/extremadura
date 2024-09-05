@@ -1,5 +1,5 @@
 ---
 title: "Explorer"
 url: /badajoz/explorer/
-shop: exterior
+shop: Outdoor
 ---

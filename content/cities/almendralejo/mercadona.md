@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /almendralejo/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

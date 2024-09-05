@@ -1,5 +1,5 @@
 ---
 title: "Merkal Calzados"
 url: /badajoz/merkal-calzados/
-shop: supermercado
+shop: Supermarkt
 ---

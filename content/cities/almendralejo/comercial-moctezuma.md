@@ -1,5 +1,5 @@
 ---
 title: "Comercial Moctezuma"
 url: /almendralejo/comercial-moctezuma/
-shop: cosméticos
+shop: Kosmetik
 ---

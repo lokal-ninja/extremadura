@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /badajoz/kiabi/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aradilla"
 url: /montijo/aradilla/
-shop: mascotas
+shop: Tiere
 ---

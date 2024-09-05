@@ -1,5 +1,5 @@
 ---
 title: "Burbujitas"
 url: /alburquerque/burbujitas/
-shop: peluquería
+shop: Friseur
 ---

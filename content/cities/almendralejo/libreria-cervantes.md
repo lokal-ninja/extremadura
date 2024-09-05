@@ -1,5 +1,5 @@
 ---
 title: "Librería Cervantes"
 url: /almendralejo/libreria-cervantes/
-shop: libros
+shop: Bücher
 ---

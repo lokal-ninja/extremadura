@@ -1,5 +1,5 @@
 ---
 title: "Martin"
 url: /merida/martin/
-shop: libros
+shop: Bücher
 ---

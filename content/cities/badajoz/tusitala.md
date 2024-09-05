@@ -1,5 +1,5 @@
 ---
 title: "Tusitala"
 url: /badajoz/tusitala/
-shop: libros
+shop: Bücher
 ---

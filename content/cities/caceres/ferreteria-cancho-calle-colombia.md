@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Cancho"
 url: /caceres/ferreteria-cancho-calle-colombia/
-shop: hardware
+shop: Eisenwaren
 ---

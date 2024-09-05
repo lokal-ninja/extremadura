@@ -1,5 +1,5 @@
 ---
 title: "Kobido"
 url: /almendralejo/kobido/
-shop: cosméticos
+shop: Kosmetik
 ---

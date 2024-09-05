@@ -1,5 +1,5 @@
 ---
 title: "Frutería JCR"
 url: /almendralejo/fruteria-jcr/
-shop: frutería
+shop: Gemüse & Obst
 ---

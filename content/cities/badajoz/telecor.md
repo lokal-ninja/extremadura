@@ -1,5 +1,5 @@
 ---
 title: "Telecor"
 url: /badajoz/telecor/
-shop: teléfono móvil
+shop: Handy
 ---

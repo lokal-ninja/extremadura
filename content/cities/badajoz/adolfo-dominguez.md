@@ -1,5 +1,5 @@
 ---
 title: "Adolfo Domínguez"
 url: /badajoz/adolfo-dominguez/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nube"
 url: /badajoz/nube/
-shop: comodidad
+shop: Lebensmittel
 ---

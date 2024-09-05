@@ -1,5 +1,5 @@
 ---
 title: "Heladería"
 url: /almendralejo/heladeria/
-shop: confitería
+shop: Süßwaren
 ---

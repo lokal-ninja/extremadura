@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /merida/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JiGA"
 url: /almendralejo/jiga/
-shop: ordenador
+shop: Computer
 ---

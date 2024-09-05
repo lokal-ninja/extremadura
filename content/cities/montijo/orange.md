@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /montijo/orange/
-shop: teléfono móvil
+shop: Handy
 ---

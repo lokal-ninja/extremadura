@@ -1,5 +1,5 @@
 ---
 title: "Frutería Antonio"
 url: /caceres/fruteria-antonio/
-shop: comodidad
+shop: Lebensmittel
 ---

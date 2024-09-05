@@ -1,5 +1,5 @@
 ---
 title: "Sastrería Ana Cabeza de Vaca"
 url: /almendralejo/sastreria-ana-cabeza-de-vaca/
-shop: sastre
+shop: Schneiderei
 ---

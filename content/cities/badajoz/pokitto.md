@@ -1,5 +1,5 @@
 ---
 title: "Pokitto"
 url: /badajoz/pokitto/
-shop: comodidad
+shop: Lebensmittel
 ---

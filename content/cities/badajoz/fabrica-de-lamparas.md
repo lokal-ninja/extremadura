@@ -1,5 +1,5 @@
 ---
 title: "Fábrica de Lámparas"
 url: /badajoz/fabrica-de-lamparas/
-shop: lámparas
+shop: Lampen
 ---

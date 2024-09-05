@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /plasencia/bmw/
-shop: coche
+shop: Autohaus
 ---

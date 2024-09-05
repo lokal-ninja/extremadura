@@ -1,5 +1,5 @@
 ---
 title: "Clarel"
 url: /almendralejo/clarel/
-shop: farmacia
+shop: Drogerie
 ---

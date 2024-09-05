@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /almendralejo/springfield/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salguero"
 url: /almendralejo/salguero/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WOMAN"
 url: /almendralejo/woman/
-shop: ropa
+shop: Kleidung
 ---

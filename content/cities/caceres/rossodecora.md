@@ -1,5 +1,5 @@
 ---
 title: "RossoDecora"
 url: /caceres/rossodecora/
-shop: regalo
+shop: Andenken
 ---

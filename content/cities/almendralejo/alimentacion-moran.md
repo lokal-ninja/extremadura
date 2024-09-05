@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Morán"
 url: /almendralejo/alimentacion-moran/
-shop: comodidad
+shop: Lebensmittel
 ---

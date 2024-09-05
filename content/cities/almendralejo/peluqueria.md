@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /almendralejo/peluqueria/
-shop: peluquería
+shop: Friseur
 ---

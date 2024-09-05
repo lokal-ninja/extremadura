@@ -1,5 +1,5 @@
 ---
 title: "Cortefiel"
 url: /badajoz/cortefiel/
-shop: ropa
+shop: Kleidung
 ---

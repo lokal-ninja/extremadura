@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /badajoz/once/
-shop: lotería
+shop: Lotterie
 ---
