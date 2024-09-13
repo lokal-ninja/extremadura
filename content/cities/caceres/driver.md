@@ -1,5 +1,5 @@
 ---
 title: "Driver"
 url: /caceres/driver/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

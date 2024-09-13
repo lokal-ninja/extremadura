@@ -1,5 +1,5 @@
 ---
 title: "Boliche"
 url: /campanario/boliche/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

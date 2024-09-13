@@ -1,5 +1,5 @@
 ---
 title: "Multidecor"
 url: /almendralejo/multidecor/
-shop: Raumausstattung
+shop: decoración interior
 ---

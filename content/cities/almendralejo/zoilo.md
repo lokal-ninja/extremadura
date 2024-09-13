@@ -1,5 +1,5 @@
 ---
 title: "Zoilo"
 url: /almendralejo/zoilo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

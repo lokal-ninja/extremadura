@@ -1,5 +1,5 @@
 ---
 title: "Secret Style"
 url: /badajoz/secret-style/
-shop: Friseur
+shop: peluquería
 ---

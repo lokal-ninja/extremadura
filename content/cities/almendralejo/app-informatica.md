@@ -1,5 +1,5 @@
 ---
 title: "APP Informática"
 url: /almendralejo/app-informatica/
-shop: Computer
+shop: ordenador
 ---

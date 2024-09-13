@@ -1,5 +1,5 @@
 ---
 title: "Arias"
 url: /almendralejo/arias/
-shop: Kleidung
+shop: ropa
 ---

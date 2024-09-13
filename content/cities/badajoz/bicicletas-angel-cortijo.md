@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Ángel Cortijo"
 url: /badajoz/bicicletas-angel-cortijo/
-shop: Fahrrad
+shop: bicicleta
 ---

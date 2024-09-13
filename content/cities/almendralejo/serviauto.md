@@ -1,5 +1,5 @@
 ---
 title: "Serviauto"
 url: /almendralejo/serviauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

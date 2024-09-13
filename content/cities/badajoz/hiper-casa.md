@@ -1,5 +1,5 @@
 ---
 title: "Hiper Casa"
 url: /badajoz/hiper-casa/
-shop: Kramladen
+shop: tienda de variedades
 ---

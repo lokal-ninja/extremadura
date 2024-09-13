@@ -1,5 +1,5 @@
 ---
 title: "Tintoreco"
 url: /badajoz/tintoreco/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Junquera"
 url: /badajoz/junquera/
-shop: Friseur
+shop: peluquería
 ---

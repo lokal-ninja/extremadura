@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /plasencia/audi/
-shop: Autohaus
+shop: coche
 ---

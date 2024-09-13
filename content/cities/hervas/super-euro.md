@@ -1,5 +1,5 @@
 ---
 title: "SUPER EURO"
 url: /hervas/super-euro/
-shop: Allgemein
+shop: general
 ---

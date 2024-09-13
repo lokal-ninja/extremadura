@@ -1,5 +1,5 @@
 ---
 title: "Pompitass"
 url: /almendralejo/pompitass/
-shop: Babysachen
+shop: artículos para bebés
 ---

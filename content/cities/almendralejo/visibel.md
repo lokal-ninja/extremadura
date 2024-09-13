@@ -1,5 +1,5 @@
 ---
 title: "Visibel"
 url: /almendralejo/visibel/
-shop: Kosmetik
+shop: cosméticos
 ---

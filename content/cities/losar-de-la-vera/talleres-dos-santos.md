@@ -1,5 +1,5 @@
 ---
 title: "Talleres Dos Santos"
 url: /losar-de-la-vera/talleres-dos-santos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

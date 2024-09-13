@@ -1,5 +1,5 @@
 ---
 title: "Taller Electromecánico Perú"
 url: /caceres/taller-electromecanico-peru/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

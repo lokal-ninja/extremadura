@@ -1,5 +1,5 @@
 ---
 title: "Ciclos net"
 url: /merida/ciclos-net/
-shop: Fahrrad
+shop: bicicleta
 ---

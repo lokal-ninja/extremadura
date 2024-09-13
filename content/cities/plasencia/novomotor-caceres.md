@@ -1,5 +1,5 @@
 ---
 title: "Novomotor Cáceres"
 url: /plasencia/novomotor-caceres/
-shop: Autohaus
+shop: coche
 ---

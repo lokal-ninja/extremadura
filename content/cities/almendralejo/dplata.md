@@ -1,5 +1,5 @@
 ---
 title: "Dplata"
 url: /almendralejo/dplata/
-shop: Schmuck
+shop: joyería
 ---

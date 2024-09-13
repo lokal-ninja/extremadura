@@ -1,5 +1,5 @@
 ---
 title: "Taller Mariano Cordero"
 url: /puebla-de-alcocer/taller-mariano-cordero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

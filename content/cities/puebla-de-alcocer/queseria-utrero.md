@@ -1,5 +1,5 @@
 ---
 title: "Quesería Utrero"
 url: /puebla-de-alcocer/queseria-utrero/
-shop: Käse
+shop: queso
 ---

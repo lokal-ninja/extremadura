@@ -1,5 +1,5 @@
 ---
 title: "La Bicileta"
 url: /badajoz/la-bicileta/
-shop: Fahrrad
+shop: bicicleta
 ---

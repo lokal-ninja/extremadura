@@ -1,5 +1,5 @@
 ---
 title: "Mercasia"
 url: /montijo/mercasia/
-shop: Supermarkt
+shop: supermercado
 ---

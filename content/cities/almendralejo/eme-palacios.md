@@ -1,5 +1,5 @@
 ---
 title: "EME Palacios"
 url: /almendralejo/eme-palacios/
-shop: Reisebüro
+shop: agencia de viajes
 ---

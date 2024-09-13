@@ -1,5 +1,5 @@
 ---
 title: "Técnica"
 url: /llerena/tecnica/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquerías Low Cost"
 url: /almendralejo/peluquerias-low-cost/
-shop: Friseur
+shop: peluquería
 ---

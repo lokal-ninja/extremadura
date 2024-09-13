@@ -1,5 +1,5 @@
 ---
 title: "Chambra"
 url: /almendralejo/chambra/
-shop: Kleidung
+shop: ropa
 ---

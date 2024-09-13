@@ -1,5 +1,5 @@
 ---
 title: "Discovery Travel"
 url: /badajoz/discovery-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

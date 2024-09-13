@@ -1,5 +1,5 @@
 ---
 title: "Bazar Fátima"
 url: /llerena/bazar-fatima/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vibo"
 url: /badajoz/vibo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

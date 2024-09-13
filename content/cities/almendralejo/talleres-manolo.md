@@ -1,5 +1,5 @@
 ---
 title: "Talleres Manolo"
 url: /almendralejo/talleres-manolo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NCS"
 url: /badajoz/ncs/
-shop: Computer
+shop: ordenador
 ---

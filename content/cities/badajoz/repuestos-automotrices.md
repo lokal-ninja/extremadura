@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Automotrices"
 url: /badajoz/repuestos-automotrices/
-shop: Autoteile
+shop: piezas de automóviles
 ---

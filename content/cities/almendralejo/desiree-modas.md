@@ -1,5 +1,5 @@
 ---
 title: "Desireé Modas"
 url: /almendralejo/desiree-modas/
-shop: Kleidung
+shop: ropa
 ---

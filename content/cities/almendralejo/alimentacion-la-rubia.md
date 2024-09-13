@@ -1,5 +1,5 @@
 ---
 title: "Alimentación La Rubia"
 url: /almendralejo/alimentacion-la-rubia/
-shop: Lebensmittel
+shop: comodidad
 ---

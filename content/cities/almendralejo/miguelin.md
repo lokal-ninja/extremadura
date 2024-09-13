@@ -1,5 +1,5 @@
 ---
 title: "Miguelín"
 url: /almendralejo/miguelin/
-shop: Babysachen
+shop: artículos para bebés
 ---

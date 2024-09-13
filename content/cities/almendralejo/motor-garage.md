@@ -1,5 +1,5 @@
 ---
 title: "Motor Garage"
 url: /almendralejo/motor-garage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

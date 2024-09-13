@@ -1,5 +1,5 @@
 ---
 title: "García Matilla"
 url: /badajoz/garcia-matilla/
-shop: Schuhe
+shop: zapatos
 ---

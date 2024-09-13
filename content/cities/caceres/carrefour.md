@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /caceres/carrefour/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

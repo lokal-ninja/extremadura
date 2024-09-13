@@ -1,5 +1,5 @@
 ---
 title: "BricoCentro Extremeño"
 url: /almendralejo/bricocentro-extremeno/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

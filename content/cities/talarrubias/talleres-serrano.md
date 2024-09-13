@@ -1,5 +1,5 @@
 ---
 title: "Talleres Serrano"
 url: /talarrubias/talleres-serrano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

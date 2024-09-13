@@ -1,5 +1,5 @@
 ---
 title: "Talleres Santi"
 url: /almendralejo/talleres-santi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

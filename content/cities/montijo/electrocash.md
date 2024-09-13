@@ -1,5 +1,5 @@
 ---
 title: "Electrocash"
 url: /montijo/electrocash/
-shop: Haushaltsgeräte
+shop: aparato
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paule"
 url: /badajoz/paule/
-shop: Schreibwaren
+shop: material de oficina
 ---

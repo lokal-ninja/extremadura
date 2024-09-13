@@ -1,5 +1,5 @@
 ---
 title: "Z.Home"
 url: /caceres/z-home/
-shop: Kramladen
+shop: tienda de variedades
 ---

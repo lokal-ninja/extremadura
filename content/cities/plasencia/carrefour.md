@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /plasencia/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

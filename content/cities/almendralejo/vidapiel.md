@@ -1,5 +1,5 @@
 ---
 title: "Vidapiel"
 url: /almendralejo/vidapiel/
-shop: Kosmetik
+shop: cosméticos
 ---

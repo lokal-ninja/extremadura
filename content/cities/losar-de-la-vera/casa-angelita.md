@@ -1,5 +1,5 @@
 ---
 title: "Casa Angelita"
 url: /losar-de-la-vera/casa-angelita/
-shop: Allgemein
+shop: general
 ---

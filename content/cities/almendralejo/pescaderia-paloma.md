@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Paloma"
 url: /almendralejo/pescaderia-paloma/
-shop: Fisch
+shop: marisco
 ---

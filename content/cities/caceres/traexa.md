@@ -1,5 +1,5 @@
 ---
 title: "Traexa"
 url: /caceres/traexa/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "adc Viajes"
 url: /almendralejo/adc-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /badajoz/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Durfran"
 url: /almendralejo/carniceria-durfran/
-shop: Metzgerei
+shop: carnicero
 ---

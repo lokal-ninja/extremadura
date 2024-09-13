@@ -1,5 +1,5 @@
 ---
 title: "Marco Aldany"
 url: /badajoz/marco-aldany/
-shop: Friseur
+shop: peluquería
 ---

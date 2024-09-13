@@ -1,5 +1,5 @@
 ---
 title: "Taller Luis"
 url: /castilblanco/taller-luis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

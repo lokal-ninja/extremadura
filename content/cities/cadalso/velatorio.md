@@ -1,5 +1,5 @@
 ---
 title: "Velatorio"
 url: /cadalso/velatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

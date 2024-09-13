@@ -1,5 +1,5 @@
 ---
 title: "Bazar Lupe"
 url: /llerena/bazar-lupe/
-shop: Kramladen
+shop: tienda de variedades
 ---

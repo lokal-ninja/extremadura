@@ -1,5 +1,5 @@
 ---
 title: "El Corte Chino"
 url: /badajoz/el-corte-chino/
-shop: Kleidung
+shop: ropa
 ---

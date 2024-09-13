@@ -1,5 +1,5 @@
 ---
 title: "La bien peiná"
 url: /almendralejo/la-bien-peina/
-shop: Friseur
+shop: peluquería
 ---

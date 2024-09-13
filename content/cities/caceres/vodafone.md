@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /caceres/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

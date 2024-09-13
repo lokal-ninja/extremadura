@@ -1,5 +1,5 @@
 ---
 title: "Samarkanda"
 url: /caceres/samarkanda/
-shop: Kleidung
+shop: ropa
 ---

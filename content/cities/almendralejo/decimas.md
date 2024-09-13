@@ -1,5 +1,5 @@
 ---
 title: "Décimas"
 url: /almendralejo/decimas/
-shop: Kleidung
+shop: ropa
 ---

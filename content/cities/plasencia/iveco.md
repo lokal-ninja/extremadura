@@ -1,5 +1,5 @@
 ---
 title: "Iveco"
 url: /plasencia/iveco/
-shop: Autohaus
+shop: coche
 ---

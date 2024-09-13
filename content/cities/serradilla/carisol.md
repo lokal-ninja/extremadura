@@ -1,5 +1,5 @@
 ---
 title: "Carisol"
 url: /serradilla/carisol/
-shop: Kramladen
+shop: tienda de variedades
 ---

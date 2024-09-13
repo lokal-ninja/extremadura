@@ -1,5 +1,5 @@
 ---
 title: "Castilla Pardo"
 url: /almendralejo/castilla-pardo/
-shop: Kleidung
+shop: ropa
 ---

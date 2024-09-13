@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /montijo/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
 url: /badajoz/hipercor/
-shop: Supermarkt
+shop: supermercado
 ---

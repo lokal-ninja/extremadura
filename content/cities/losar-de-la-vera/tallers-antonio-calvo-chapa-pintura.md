@@ -1,5 +1,5 @@
 ---
 title: "Tallers Antonio Calvo Chapa - Pintura"
 url: /losar-de-la-vera/tallers-antonio-calvo-chapa-pintura/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castro"
 url: /badajoz/castro/
-shop: Blumen
+shop: floristería
 ---

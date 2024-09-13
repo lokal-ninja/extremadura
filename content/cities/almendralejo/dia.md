@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /almendralejo/dia/
-shop: Supermarkt
+shop: supermercado
 ---

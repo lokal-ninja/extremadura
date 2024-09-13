@@ -1,5 +1,5 @@
 ---
 title: "Elia"
 url: /castilblanco/elia/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Llamaya"
 url: /badajoz/llamaya/
-shop: Handy
+shop: teléfono móvil
 ---

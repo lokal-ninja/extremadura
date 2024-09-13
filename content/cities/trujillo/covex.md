@@ -1,5 +1,5 @@
 ---
 title: "Covex"
 url: /trujillo/covex/
-shop: Baustoffe
+shop: comercio
 ---

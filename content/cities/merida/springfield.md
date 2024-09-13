@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /merida/springfield/
-shop: Kleidung
+shop: ropa
 ---

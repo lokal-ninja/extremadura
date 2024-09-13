@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /la-garrovilla/spar/
-shop: Supermarkt
+shop: supermercado
 ---

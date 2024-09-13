@@ -1,5 +1,5 @@
 ---
 title: "Unicash"
 url: /don-benito/unicash/
-shop: Supermarkt
+shop: supermercado
 ---

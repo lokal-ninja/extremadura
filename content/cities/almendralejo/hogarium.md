@@ -1,5 +1,5 @@
 ---
 title: "Hogarium"
 url: /almendralejo/hogarium/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fauna"
 url: /badajoz/fauna/
-shop: Tiere
+shop: mascotas
 ---

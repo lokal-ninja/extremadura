@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /caceres/nissan/
-shop: Autohaus
+shop: coche
 ---

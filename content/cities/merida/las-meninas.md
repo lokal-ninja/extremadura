@@ -1,5 +1,5 @@
 ---
 title: "Las Meninas"
 url: /merida/las-meninas/
-shop: Kleidung
+shop: ropa
 ---

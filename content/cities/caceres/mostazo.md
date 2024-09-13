@@ -1,5 +1,5 @@
 ---
 title: "Mostazo"
 url: /caceres/mostazo/
-shop: Feinkost
+shop: charcutería
 ---

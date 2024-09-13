@@ -1,5 +1,5 @@
 ---
 title: "Zetta"
 url: /almendralejo/zetta/
-shop: Modehaus
+shop: tienda
 ---

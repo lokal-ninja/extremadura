@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /badajoz/jysk/
-shop: Möbel
+shop: muebles
 ---

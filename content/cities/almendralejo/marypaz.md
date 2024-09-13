@@ -1,5 +1,5 @@
 ---
 title: "MaryPaz"
 url: /almendralejo/marypaz/
-shop: Schuhe
+shop: zapatos
 ---

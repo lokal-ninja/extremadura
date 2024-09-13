@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /badajoz/eurospar/
-shop: Supermarkt
+shop: supermercado
 ---

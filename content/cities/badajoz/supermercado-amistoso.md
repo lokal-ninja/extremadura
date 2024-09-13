@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Amistoso"
 url: /badajoz/supermercado-amistoso/
-shop: Kramladen
+shop: tienda de variedades
 ---

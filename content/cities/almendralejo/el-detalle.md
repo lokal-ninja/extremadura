@@ -1,5 +1,5 @@
 ---
 title: "El detalle"
 url: /almendralejo/el-detalle/
-shop: Modehaus
+shop: tienda
 ---

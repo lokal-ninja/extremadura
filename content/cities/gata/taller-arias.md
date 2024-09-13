@@ -1,5 +1,5 @@
 ---
 title: "Taller Arias"
 url: /gata/taller-arias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

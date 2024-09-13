@@ -1,5 +1,5 @@
 ---
 title: "LibroYmás"
 url: /miajades/libroymas/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /caceres/renault/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AD Extremadura"
 url: /caceres/ad-extremadura/
-shop: Autoteile
+shop: piezas de automóviles
 ---

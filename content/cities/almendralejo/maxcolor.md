@@ -1,5 +1,5 @@
 ---
 title: "Maxcolor"
 url: /almendralejo/maxcolor/
-shop: Foto
+shop: foto
 ---

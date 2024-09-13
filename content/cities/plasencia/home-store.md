@@ -1,5 +1,5 @@
 ---
 title: "Home Store"
 url: /plasencia/home-store/
-shop: Raumausstattung
+shop: decoración interior
 ---

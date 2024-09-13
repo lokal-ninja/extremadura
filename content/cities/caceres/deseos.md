@@ -1,5 +1,5 @@
 ---
 title: "Deseos"
 url: /caceres/deseos/
-shop: Lebensmittel
+shop: comodidad
 ---

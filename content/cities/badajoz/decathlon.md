@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /badajoz/decathlon/
-shop: Sport
+shop: deportes
 ---

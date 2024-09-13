@@ -1,5 +1,5 @@
 ---
 title: "Virginia"
 url: /badajoz/virginia/
-shop: Friseur
+shop: peluquería
 ---

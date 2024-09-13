@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /badajoz/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /almendralejo/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

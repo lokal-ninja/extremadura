@@ -1,5 +1,5 @@
 ---
 title: "LUNA MENA"
 url: /almendralejo/luna-mena/
-shop: Schmuck
+shop: joyería
 ---

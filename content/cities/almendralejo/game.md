@@ -1,5 +1,5 @@
 ---
 title: "GAME"
 url: /almendralejo/game/
-shop: Videospiele
+shop: videojuegos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extrecar"
 url: /plasencia/extrecar/
-shop: Autohaus
+shop: coche
 ---

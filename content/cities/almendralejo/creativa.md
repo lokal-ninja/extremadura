@@ -1,5 +1,5 @@
 ---
 title: "Creativa"
 url: /almendralejo/creativa/
-shop: Kopieren
+shop: copyshop
 ---

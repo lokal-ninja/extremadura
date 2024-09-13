@@ -1,5 +1,5 @@
 ---
 title: "Mampalum"
 url: /badajoz/mampalum/
-shop: Badezimmer
+shop: cuarto de baño
 ---
