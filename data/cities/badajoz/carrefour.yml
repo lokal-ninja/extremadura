@@ -1,11 +1,11 @@
 id: 913987821
-type: way
+type: node
 latitude: 38.86652
 longitude: -6.98872
 postcode: "06011"
 city: Badajoz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

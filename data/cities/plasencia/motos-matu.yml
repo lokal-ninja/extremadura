@@ -4,8 +4,8 @@ latitude: 40.03462
 longitude: -6.07969
 postcode: ""
 city: Plasencia
-street: "Calle Eugenio el Hermoso"
-housenumber: 2
-phone: "+34 927 41 91 60"
-opening_hours: "Mo-Fr 09:30-14:00, 16:30-20:00; Sa 10:00-14:00"
-website: "https://motosmatu.com/"
+street: Calle Eugenio el Hermoso
+housenumber: "2"
+phone: +34 927 41 91 60
+opening_hours: Mo-Fr 09:30-14:00, 16:30-20:00; Sa 10:00-14:00
+website: https://motosmatu.com/

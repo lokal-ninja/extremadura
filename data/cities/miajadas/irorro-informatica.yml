@@ -4,8 +4,8 @@ latitude: 39.15032
 longitude: -5.90974
 postcode: "10100"
 city: Miajadas
-street: "Calle Real"
-housenumber: 24
+street: Calle Real
+housenumber: "24"
 phone: "+34927160608"
-opening_hours: "open"
+opening_hours: open
 website: ""

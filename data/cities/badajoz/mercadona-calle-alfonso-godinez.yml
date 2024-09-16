@@ -1,11 +1,11 @@
 id: 313099416
-type: way
+type: node
 latitude: 38.86174
 longitude: -6.9865
 postcode: "06011"
 city: Badajoz
-street: "Calle Alfonso Godínez"
-housenumber: 24
+street: Calle Alfonso Godínez
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

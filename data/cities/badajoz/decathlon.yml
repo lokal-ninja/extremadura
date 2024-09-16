@@ -1,11 +1,11 @@
 id: 413840560
-type: way
+type: node
 latitude: 38.88038
 longitude: -7.01372
 postcode: ""
 city: Badajoz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.decathlon.es"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.decathlon.es

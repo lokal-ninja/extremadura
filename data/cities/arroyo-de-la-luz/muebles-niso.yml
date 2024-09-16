@@ -1,11 +1,11 @@
 id: 256342521
-type: way
+type: node
 latitude: 39.48312
 longitude: -6.57999
 postcode: "10900"
 city: Arroyo de la Luz
-street: "Calle Carretera"
-housenumber: 102
-phone: "+34 927 270 102"
+street: Calle Carretera
+housenumber: "102"
+phone: +34 927 270 102
 opening_hours: ""
-website: "https://mueblesniso.com/"
+website: https://mueblesniso.com/

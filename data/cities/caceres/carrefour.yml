@@ -1,11 +1,11 @@
 id: 29390738
-type: way
+type: node
 latitude: 39.46639
 longitude: -6.3957
 postcode: "10005"
 city: Cáceres
-street: "Avenida de las Arenas"
-housenumber: 
+street: Avenida de las Arenas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1240152383
-type: way
+type: node
 latitude: 39.45627
 longitude: -6.38252
 postcode: "10005"
 city: Cáceres
-street: "Calle San Petersburgo"
-housenumber: 
+street: Calle San Petersburgo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

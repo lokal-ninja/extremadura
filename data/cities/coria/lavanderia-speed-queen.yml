@@ -4,8 +4,8 @@ latitude: 39.99162
 longitude: -6.54135
 postcode: "10800"
 city: Coria
-street: "Avenida Virgen de Argeme"
-housenumber: 43
+street: Avenida Virgen de Argeme
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://auto-lavanderia.com/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://auto-lavanderia.com/

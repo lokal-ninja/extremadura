@@ -1,11 +1,11 @@
 id: 1207269779
-type: way
+type: node
 latitude: 39.48534
 longitude: -6.41541
 postcode: "10001"
 city: Cáceres
-street: "Calle Esquiladores"
-housenumber: 
-phone: "927 26 98 97"
+street: Calle Esquiladores
+housenumber: ""
+phone: 927 26 98 97
 opening_hours: ""
-website: "https://adextremadura.com/"
+website: https://adextremadura.com/

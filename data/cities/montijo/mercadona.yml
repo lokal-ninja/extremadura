@@ -1,11 +1,11 @@
 id: 633120823
-type: way
+type: node
 latitude: 38.9082
 longitude: -6.62107
 postcode: "06840"
 city: Montijo
-street: "Calle Condes de Montijo"
-housenumber: 55
+street: Calle Condes de Montijo
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

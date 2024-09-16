@@ -1,11 +1,11 @@
 id: 153401827
-type: way
+type: node
 latitude: 38.67178
 longitude: -6.39093
 postcode: "06200"
 city: Almendralejo
-street: "Avenida de Sevilla"
-housenumber: 140
-phone: "+34 697 307 642"
+street: Avenida de Sevilla
+housenumber: "140"
+phone: +34 697 307 642
 opening_hours: ""
-website: "https://www.familycash.es/"
+website: https://www.familycash.es/

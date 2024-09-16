@@ -1,11 +1,11 @@
 id: 1151436228
-type: way
+type: node
 latitude: 40.11487
 longitude: -5.59608
 postcode: "10460"
 city: Losar de la Vera
-street: "Calle Polígono Industrial las Tres Barras"
-housenumber: 14
+street: Calle Polígono Industrial las Tres Barras
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

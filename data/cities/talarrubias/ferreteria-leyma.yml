@@ -1,11 +1,11 @@
 id: 1035202218
-type: way
+type: node
 latitude: 39.03093
 longitude: -5.23485
 postcode: "06640"
 city: Talarrubias
-street: "Avenida de la Constitución"
-housenumber: 144
+street: Avenida de la Constitución
+housenumber: "144"
 phone: "+34924630302"
 opening_hours: ""
 website: ""

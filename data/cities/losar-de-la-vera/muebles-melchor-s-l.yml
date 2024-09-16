@@ -1,11 +1,11 @@
 id: 978204507
-type: way
+type: node
 latitude: 40.11575
 longitude: -5.59685
 postcode: "10460"
 city: Losar de la Vera
-street: "EXT"
-housenumber: 203
-phone: "+34 927570075"
+street: EXT
+housenumber: "203"
+phone: +34 927570075
 opening_hours: ""
 website: ""

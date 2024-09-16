@@ -1,11 +1,11 @@
 id: 650209552
-type: way
+type: node
 latitude: 40.02104
 longitude: -6.09866
 postcode: "10600"
 city: Plasencia
-street: "Avda. de España"
-housenumber: 
+street: Avda. de España
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

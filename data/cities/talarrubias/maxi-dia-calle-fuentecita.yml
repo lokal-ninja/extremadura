@@ -1,11 +1,11 @@
 id: 818736559
-type: way
+type: node
 latitude: 39.0325
 longitude: -5.23734
 postcode: "06640"
 city: Talarrubias
-street: "Calle Fuentecita"
-housenumber: 
+street: Calle Fuentecita
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.dia.es"
+website: https://www.dia.es

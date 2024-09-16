@@ -1,11 +1,11 @@
 id: 440559994
-type: way
+type: node
 latitude: 38.68923
 longitude: -6.40498
 postcode: "06200"
 city: Almendralejo
-street: "Avenida Juan Carlos Rodríguez Ibarra, 59"
-housenumber: 
-phone: "+34 924 66 55 04"
-opening_hours: "Mo-Fr 08:00-14:00, 16:00-20:00; Sa 09:00-12:00"
+street: Avenida Juan Carlos Rodríguez Ibarra, 59
+housenumber: ""
+phone: +34 924 66 55 04
+opening_hours: Mo-Fr 08:00-14:00, 16:00-20:00; Sa 09:00-12:00
 website: ""

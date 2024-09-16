@@ -1,11 +1,11 @@
 id: 1092199046
-type: way
+type: node
 latitude: 39.03655
 longitude: -5.2434
 postcode: "06640"
 city: Talarrubias
-street: "Calle Marconi"
-housenumber: 
+street: Calle Marconi
+housenumber: ""
 phone: "+34647179338"
 opening_hours: ""
 website: ""

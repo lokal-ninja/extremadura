@@ -1,11 +1,11 @@
 id: 1175461995
-type: way
+type: node
 latitude: 39.50726
 longitude: -5.43686
 postcode: "10374"
 city: Navezuelas
-street: "Avenida de Guadalupe"
-housenumber: 53
+street: Avenida de Guadalupe
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

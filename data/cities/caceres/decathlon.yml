@@ -1,11 +1,11 @@
 id: 1270214837
-type: way
+type: node
 latitude: 39.46798
 longitude: -6.39713
 postcode: "10005"
 city: Cáceres
-street: "Avenida de las Arenas"
-housenumber: 
+street: Avenida de las Arenas
+housenumber: ""
 phone: "+34927741006"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.decathlon.es/es/store-view/tienda-de-deportes-caceres-0070305003050"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.decathlon.es/es/store-view/tienda-de-deportes-caceres-0070305003050

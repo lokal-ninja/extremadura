@@ -1,11 +1,11 @@
 id: 465383316
-type: way
+type: node
 latitude: 38.24171
 longitude: -6.0161
 postcode: "06900"
 city: Llerena
-street: "Portillo Frasco Vaca"
-housenumber: 7
+street: Portillo Frasco Vaca
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

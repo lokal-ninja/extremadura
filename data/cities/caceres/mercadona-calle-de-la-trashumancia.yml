@@ -1,11 +1,11 @@
 id: 1101565354
-type: way
+type: node
 latitude: 39.44919
 longitude: -6.37306
 postcode: "10005"
 city: Cáceres
-street: "Calle de la Trashumancia"
-housenumber: 
+street: Calle de la Trashumancia
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

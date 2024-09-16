@@ -1,11 +1,11 @@
 id: 549597100
-type: way
+type: node
 latitude: 38.97195
 longitude: -5.26742
 postcode: "06620"
 city: Esparragosa de Lares
-street: "Calle Santa Catalina"
-housenumber: 88
-phone: "+34 924 63 34 16"
+street: Calle Santa Catalina
+housenumber: "88"
+phone: +34 924 63 34 16
 opening_hours: ""
 website: ""

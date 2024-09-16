@@ -1,11 +1,11 @@
 id: 302393476
-type: way
+type: node
 latitude: 38.68267
 longitude: -6.4041
 postcode: "06200"
 city: Almendralejo
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.dia.es"
+website: https://www.dia.es

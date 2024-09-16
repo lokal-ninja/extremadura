@@ -1,11 +1,11 @@
 id: 1131810096
-type: way
+type: node
 latitude: 39.45981
 longitude: -6.38334
 postcode: "10005"
 city: Cáceres
-street: "Calle Túnez"
-housenumber: 5
+street: Calle Túnez
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

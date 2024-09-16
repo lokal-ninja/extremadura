@@ -1,11 +1,11 @@
 id: 182022576
-type: way
+type: node
 latitude: 38.88326
 longitude: -7.02402
 postcode: "06006"
 city: Badajoz
-street: "Avenida de Elvas"
-housenumber: 
-phone: "+34 924 266 888"
+street: Avenida de Elvas
+housenumber: ""
+phone: +34 924 266 888
 opening_hours: ""
-website: "https://ccelfaro.com/"
+website: https://ccelfaro.com/

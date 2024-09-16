@@ -1,11 +1,11 @@
 id: 1193605112
-type: way
+type: node
 latitude: 38.97643
 longitude: -5.27439
 postcode: "06620"
 city: Esparragosa de Lares
-street: "Calle Plazuela"
-housenumber: 6
+street: Calle Plazuela
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

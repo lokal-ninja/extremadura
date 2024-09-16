@@ -1,11 +1,11 @@
 id: 65390236
-type: way
+type: node
 latitude: 40.03884
 longitude: -6.07925
 postcode: "10600"
 city: Plasencia
-street: "Calle Julián Besteiro"
-housenumber: 
+street: Calle Julián Besteiro
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.86784
 longitude: -6.98056
 postcode: "06011"
 city: Badajoz
-street: "Avenida María Auxiliadora"
-housenumber: 45
-phone: "+34 924 03 28 03"
-opening_hours: "Mo-Th 10:30-13:30, 17:30-20:30; Fr-Sa 10:30-13:30, 17:30-21:30"
-website: "https://www.jupiterjuegos.com/pagina/jupiter-badajoz"
+street: Avenida María Auxiliadora
+housenumber: "45"
+phone: +34 924 03 28 03
+opening_hours: Mo-Th 10:30-13:30, 17:30-20:30; Fr-Sa 10:30-13:30, 17:30-21:30
+website: https://www.jupiterjuegos.com/pagina/jupiter-badajoz

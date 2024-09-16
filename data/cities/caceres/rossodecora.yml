@@ -1,11 +1,11 @@
 id: 770690696
-type: way
+type: node
 latitude: 39.46983
 longitude: -6.37932
 postcode: "10001"
 city: Cáceres
-street: "Calle Gómez Becerra"
-housenumber: 4
+street: Calle Gómez Becerra
+housenumber: "4"
 phone: "927246621"
 opening_hours: ""
 website: ""

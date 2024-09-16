@@ -4,8 +4,8 @@ latitude: 40.02342
 longitude: -6.09609
 postcode: "10600"
 city: Plasencia
-street: "Avda. de España"
-housenumber: 
+street: Avda. de España
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

@@ -1,6 +1,6 @@
 ---
 title: Alburquerque
 url: /alburquerque/
-latitude: 39.22
-longitude: -7.001
+latitude: 39.219
+longitude: -7
 ---

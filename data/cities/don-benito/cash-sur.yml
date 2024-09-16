@@ -1,11 +1,11 @@
 id: 301099194
-type: way
+type: node
 latitude: 38.96064
 longitude: -5.87765
 postcode: "06400"
 city: Don Benito
-street: "Calle Leonardo da Vinci"
-housenumber: 
+street: Calle Leonardo da Vinci
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.caroruiz.es/"
+website: https://www.caroruiz.es/

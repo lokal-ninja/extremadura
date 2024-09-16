@@ -1,11 +1,11 @@
 id: 300809145
-type: way
+type: node
 latitude: 38.6984
 longitude: -6.40305
 postcode: "06200"
 city: Almendralejo
-street: "Avenida Juan Carlos Rodríguez Ibarra"
+street: Avenida Juan Carlos Rodríguez Ibarra
 housenumber: 3 A
-phone: "+34 924 671 258;+34 651 970 862"
+phone: +34 924 671 258;+34 651 970 862
 opening_hours: ""
-website: "https://www.talleresmercedesautosur.es/"
+website: https://www.talleresmercedesautosur.es/

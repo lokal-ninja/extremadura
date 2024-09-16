@@ -1,11 +1,11 @@
 id: 298488349
-type: way
+type: node
 latitude: 38.69218
 longitude: -6.40971
 postcode: "06200"
 city: Almendralejo
-street: "Calle Mecánica"
-housenumber: 
+street: Calle Mecánica
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 471567990
-type: way
+type: node
 latitude: 38.23806
 longitude: -6.0121
 postcode: "06900"
 city: Llerena
-street: "Calle Carretera de la Estación"
-housenumber: 8
-phone: "+34 924870422"
+street: Calle Carretera de la Estación
+housenumber: "8"
+phone: +34 924870422
 opening_hours: ""
 website: ""

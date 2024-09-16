@@ -1,11 +1,11 @@
 id: 1151202748
-type: way
+type: node
 latitude: 40.11906
 longitude: -5.59908
 postcode: "10460"
 city: Losar de la Vera
-street: "Avenida de Extremadura"
-housenumber: 120
-phone: "+34 627088979"
+street: Avenida de Extremadura
+housenumber: "120"
+phone: +34 627088979
 opening_hours: ""
 website: ""
