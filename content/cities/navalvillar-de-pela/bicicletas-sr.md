@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas SR"
-url: /vegas-altas/bicicletas-sr/
+url: /navalvillar-de-pela/bicicletas-sr/
 shop: bicicleta
 ---
