@@ -1,6 +1,6 @@
 ---
 title: Jaraicejo
 url: /jaraicejo/
-latitude: 39.666
-longitude: -5.814
+latitude: 39.667
+longitude: -5.813
 ---
