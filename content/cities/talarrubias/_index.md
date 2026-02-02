@@ -1,6 +1,6 @@
 ---
 title: Talarrubias
 url: /talarrubias/
-latitude: 39.031
+latitude: 39.029
 longitude: -5.235
 ---
