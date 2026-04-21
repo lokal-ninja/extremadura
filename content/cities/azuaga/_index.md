@@ -1,6 +1,6 @@
 ---
 title: Azuaga
 url: /azuaga/
-latitude: 38.259
-longitude: -5.678
+latitude: 38.26
+longitude: -5.679
 ---
