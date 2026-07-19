@@ -1,6 +1,6 @@
 ---
 title: Almendralejo
 url: /almendralejo/
-latitude: 38.685
-longitude: -6.408
+latitude: 38.69
+longitude: -6.406
 ---
