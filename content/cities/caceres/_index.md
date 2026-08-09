@@ -1,6 +1,6 @@
 ---
 title: Cáceres
 url: /caceres/
-latitude: 39.461
-longitude: -6.381
+latitude: 39.472
+longitude: -6.389
 ---
