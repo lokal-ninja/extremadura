@@ -1,5 +1,5 @@
 ---
-title: "Dia"
+title: "Día"
 url: /badajoz/dia/
-shop: supermercado
+shop: comodidad
 ---
